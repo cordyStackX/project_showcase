@@ -1,0 +1,133 @@
+[
+  {
+    "title": "LACO AI - AI-powered institutional chatbot for information assistance.",
+    "members": [
+      {
+        "name": "Marc Giestin Louis Cordova",
+        "role": "Software Engineer",
+        "profilePic": "profile_pic/laco_ai/Marc_Cordova.jpg"
+      },
+      {
+        "name": "Ian Dave Moreno",
+        "role": "Front-End Developer and Documentary",
+        "profilePic": "profile_pic/laco_ai/ian_dave.jpeg"
+      }
+    ],
+    "vercelUrl": "https://lccb-ai-2.vercel.app/",
+    "githubUrl": "https://github.com/cordyStackX/lccb_ai_2",
+    "logo": "https://raw.githubusercontent.com/cordyStackX/lccb_ai_2/refs/heads/main/lccb_ai_2/public/logo3_nobg_title.png"
+  },
+  {
+    "title": "Assetory - Fixed Assets Inventory Management",
+    "members": [
+      {
+        "name": "Gilbert S. Lerion",
+        "role": "Lead Developer",
+        "profilePic": "profile_pic/Assetory/c5c5b34f-7347-4858-a4ab-79b402306717.jpeg"
+      },
+      {
+        "name": "Rey. C. Rico",
+        "role": "Mobile Developer",
+        "profilePic": "profile_pic/Assetory/9d72a0d0-db8e-4eef-9ffc-963e91647790.jpeg"
+      },
+      {
+        "name": "Menchie O. Egan",
+        "role": "Documenter",
+        "profilePic": "profile_pic/Assetory/531aba8d-0737-4cab-9c23-ee4719aec958.jpeg"
+      }
+    ],
+    "vercelUrl": "https://ppgs-assetory.vercel.app",
+    "githubUrl": "https://github.com/kur0gir1/PPGS-Asset-Management.git",
+    "logo": "profile_pic/Assetory/assetory logo.png"
+  },
+  {
+    "title": "ETEEAP Online Application and Alumni System",
+    "members": [
+      {
+        "name": "Joey Abundiente",
+        "role": "Frontend Developer",
+        "profilePic": "profile_pic/ETEEAP/7524bb91-4f48-472a-a1e8-05392dd085ba.jpeg"
+      },
+      {
+        "name": "Evelyn Gubaton",
+        "role": "Backend Developer and Documentary",
+        "profilePic": "profile_pic/ETEEAP/662079ea-6a07-4443-a567-ed73a8b71d29.jpeg"
+      }
+    ],
+    "vercelUrl": "https://eteeap-nextv.vercel.app/",
+    "githubUrl": "https://github.com/evelyn-hue/ETEEAP_NEXTV.git",
+    "logo": "https://raw.githubusercontent.com/evelyn-hue/ETEEAP_NEXTV/refs/heads/main/public/ETEEAP_LOGO.png"
+  },
+  {
+    "title": "LACO: A School-based Online Marketplace",
+    "members": [
+      {
+        "name": "Franz Araneta",
+        "role": "Project Manager",
+        "profilePic": "profile_pic/LACO_bookstore/6905c3b9-06ec-4827-b011-d67b710a3784.jpeg"
+      },
+      {
+        "name": "Robert Hiponia",
+        "role": "Project Assistant",
+        "profilePic": "profile_pic/LACO_bookstore/c5bb8b59-1e00-4962-ab35-076167e6339f.jpeg"
+      }
+    ],
+    "vercelUrl": "https://eccomerce-bookstore-q6r8srvqj-jamal-081e.vercel.app/",
+    "githubUrl": "https://github.com/Chair05/POS-bookstore.git",
+    "logo": ""
+  },
+  {
+    "title": "Project Name: LCCB Alumni Database and Tracking System LCC Alumni Association Inc.",
+    "members": [
+      {
+        "name": "Marc Lorenz Las",
+        "role": "Backend & Frontend",
+        "profilePic": "profile_pic/LCCB Alumni/89b2644f-c895-4f8a-99da-e3cc9409e6f7.jpeg"
+      },
+      {
+        "name": "Niben Tadiaque",
+        "role": "Backend & Frontend",
+        "profilePic": "profile_pic/LCCB Alumni/aeeb47fc-1319-46b9-93b1-c7e364fd3d22.jpeg"
+      }
+    ],
+    "vercelUrl": "https://lccb-alumni.vercel.app/",
+    "githubUrl": "https://github.com/marclorenzlas-vibecoder/LCCB-Alumni-Database-and-Tracking-System.git",
+    "logo": "https://raw.githubusercontent.com/marclorenzlas-vibecoder/LCCB-Alumni-Database-and-Tracking-System/refs/heads/main/frontend/public/alumnilogo2.png"
+  },
+  {
+    "title": "BrewTrack",
+    "members": [
+      {
+        "name": "Angel Lucenio",
+        "role": "Project Manager",
+        "profilePic": "profile_pic/BrewTrack/a16e98ad-66f1-4793-9d55-ae5c529b23ae.jpeg"
+      },
+      {
+        "name": "Christian Dominguez",
+        "role": "Project Assistant",
+        "profilePic": "profile_pic/BrewTrack/d7fd2e25-c82c-414f-8d34-2755ab99cba7.jpeg"
+      }
+    ],
+    "vercelUrl": "https://brewtrack-1v.vercel.app/",
+    "githubUrl": "https://github.com/Christ0518/brewtrack.1v.git",
+    "logo": ""
+  },
+  {
+    "title": "M.E.T.R.I.C.: A MOCK BOARD EXAMINATION SYSTEM",
+    "members": [
+      {
+        "name": "Julian Martir",
+        "role": "Project Manager",
+        "profilePic": "profile_pic/M.E.T.R.I.C/11e0c5e7-a40a-486a-8b25-253292dc3464.jpeg"
+      },
+      {
+        "name": "James Roger Jaype",
+        "role": "Project Assistant",
+        "profilePic": "profile_pic/M.E.T.R.I.C/5c959be6-c5eb-453d-b830-219738a9c103.jpeg"
+      }
+    ],
+    "vercelUrl": "",
+    "githubUrl": "https://github.com/martjung-developer/metric_supabase-app.git",
+    "logo": "https://raw.githubusercontent.com/martjung-developer/metric_supabase-app/refs/heads/main/metric-app/public/icons/icon-512.png"
+  }
+]
