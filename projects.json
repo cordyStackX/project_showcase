@@ -129,5 +129,23 @@
     "vercelUrl": "",
     "githubUrl": "https://github.com/martjung-developer/metric_supabase-app.git",
     "logo": "https://raw.githubusercontent.com/martjung-developer/metric_supabase-app/refs/heads/main/metric-app/public/icons/icon-512.png"
+  },
+  {
+    "title": "Auditrack",
+    "members": [
+      {
+        "name": "VJ A. Javellana",
+        "role": "Lead system developer",
+        "profilePic": "profile_pic/Auditrack/bde5f1c3-e032-44c0-ac90-4e5afcaadf57.jpeg"
+      },
+      {
+        "name": "Aaron A. Veluz",
+        "role": "Associate system developer",
+        "profilePic": "profile_pic/Auditrack/5f6f57a5-5e84-4485-a1e4-0e4eb88d761b.jpeg"
+      }
+    ],
+    "vercelUrl": "https://frontend-mauve-sigma-36.vercel.app/",
+    "githubUrl": "https://github.com/Ru1ean/AuditrackOnline.git",
+    "logo": "https://raw.githubusercontent.com/Ru1ean/AuditrackOnline/refs/heads/main/frontend/public/logo.png"
   }
 ]
