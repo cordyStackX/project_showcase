@@ -126,7 +126,7 @@
         "profilePic": "profile_pic/M.E.T.R.I.C/5c959be6-c5eb-453d-b830-219738a9c103.jpeg"
       }
     ],
-    "vercelUrl": "",
+    "vercelUrl": "https://metric-supabase-app-stv1.vercel.app/",
     "githubUrl": "https://github.com/martjung-developer/metric_supabase-app.git",
     "logo": "https://raw.githubusercontent.com/martjung-developer/metric_supabase-app/refs/heads/main/metric-app/public/icons/icon-512.png"
   },
