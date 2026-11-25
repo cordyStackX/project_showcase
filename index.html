@@ -78,6 +78,7 @@
     .actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:25px}
     .actions a{display:inline-flex;padding:10px 15px;color:var(--ink);text-decoration:none;font-weight:700;border:1px solid #d6e4f1;border-radius:9px;background:#f4f8fc}
     .actions a.primary{color:white;background:#087bd8;border-color:#087bd8}
+    @media(max-width:480px){.card{min-height:170px;padding:16px}.card-top{gap:12px}.card-top>.logo,.card-top>.placeholder{flex-basis:48px}.card-top>.logo,.card-top>.placeholder{width:48px;height:48px}.card h3{font-size:1.15rem}.members{padding-top:15px}.avatar{width:34px;height:34px}.member-count{font-size:.8rem}}
     @media(max-width:680px){.hero{min-height:540px}.hero-inner{width:calc(100% - 36px)}main{width:calc(100% - 36px);padding-top:54px}.section-head{align-items:start;flex-direction:column}.hero h1 strong{font-size:clamp(4.8rem,20vw,8rem)}.footer{align-items:start;flex-direction:column}}
   </style>
 </head>
